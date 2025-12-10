@@ -23,7 +23,7 @@ Saved the scraped data into a CSV file
 
 web_scraping_lab.ipynb — Notebook containing the scraping code and results
 
-scraped_data.csv — The extracted data saved as a CSV file (if required/generated)
+popular-languages.csv — The extracted data saved as a CSV file (if required/generated)
 
 
 <br> 
