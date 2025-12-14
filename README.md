@@ -21,7 +21,7 @@ Saved the scraped data into a CSV file
 
 **Files:**
 
-Web-Scraping-Lab(2).ipynb — Notebook containing the scraping code and results
+M1ExploreDataSet-lab_V2.ipynb — Notebook containing the scraping code and results
 
 popular-languages.csv — The extracted data saved as a CSV file (if required/generated)
 
